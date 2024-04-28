@@ -1,0 +1,49 @@
+@font-face { 
+    font-family: Merriweather-Regular; src: url(./Merriweather-Regular.ttf);
+  }
+  
+.nav-link {
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+    color: greenyellow;
+}
+
+.dropdown-item:hover {
+    text-decoration: underline;
+    color:greenyellow;
+}
+.fa-brands {
+    font-size: 40px;
+}
+
+.membros {
+    text-align: center;
+}
+
+.imgmembro {
+    width: 100px;
+    border-radius: 50%;
+}
+
+#disco, h3 {
+    font-family: Merriweather-Regular, Helvetica, sans-serif;
+}
+
+
+.fa-brands:hover {
+    color: greenyellow;
+}
+
+.botao:hover {
+    background-color: greenyellow;
+    color: black;
+}
+
+.discografia:hover {
+    color: greenyellow;
+    border: 10px;
+}
